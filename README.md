@@ -15,7 +15,7 @@
 * Multi-thread and Distribution support.
 * Easy to be integrated.
 
-## Install:
+## Install:  
   
 Add dependencies to your pom.xml:
 
